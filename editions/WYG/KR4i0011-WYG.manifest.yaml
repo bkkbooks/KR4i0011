@@ -1,0 +1,46 @@
+canonical_identifier: bkk:krp/KR4i0011/WYG/v1
+canonical_location: https://kanripo.org/bkk/KR4i0011/WYG/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 優古堂詩話
+  date: '2015-08-25 00:44:27.134401'
+  source:
+    repository: kanripo
+    path: KR4i0011
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR4i0011_000-WYG.yaml, hash: 'sha256:8885b668e4ad3db26477f1105d15727439837f20d19100311e4a8c654b96e93b'}
+  - {seq: 1, filename: KR4i0011_001-WYG.yaml, hash: 'sha256:ade5f6997b794d5b12229bf0c01233cc91bc8a43383fff28c2f8666dc032c67e'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR4i0011_000-WYG.markers.yaml, hash: 'sha256:8939f2f8106ba6f9a31837ad2d83278a6d01ce04ad0c6875c3968cd193826369'}
+  - {seq: 1, role: markers, filename: assets/KR4i0011_001-WYG.markers.yaml, hash: 'sha256:eb7cf7796a60b2729dbd077c30fd279c5aad362f06d26edcbd0ab32ea465ae50'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR4i0011_WYG_000-1a
+    span:
+    - body
+    - 0
+    - 198
+  label: 提要
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR4i0011_WYG_001-1a
+    span:
+    - body
+    - 0
+    - 14948
+  label: 優古堂詩話
+  type: section
+  level: 1
+hash: sha256:f36db6f57eb3f925e5a114c762c805c194207ba6305d3f1f44d1036f39ce2bfc
