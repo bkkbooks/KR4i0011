@@ -20,7 +20,7 @@ assets:
   - {seq: 0, filename: KR4i0011_000-WYG.yaml, hash: 'sha256:8885b668e4ad3db26477f1105d15727439837f20d19100311e4a8c654b96e93b'}
   - {seq: 1, filename: KR4i0011_001-WYG.yaml, hash: 'sha256:ade5f6997b794d5b12229bf0c01233cc91bc8a43383fff28c2f8666dc032c67e'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR4i0011_000-WYG.markers.yaml, hash: 'sha256:8939f2f8106ba6f9a31837ad2d83278a6d01ce04ad0c6875c3968cd193826369'}
+  - {seq: 0, role: markers, filename: assets/KR4i0011_000-WYG.markers.yaml, hash: 'sha256:ddbb8b884ef722f3f3189a257a158d605e738ef66946a64b6e2fc64b7844c8b8'}
   - {seq: 1, role: markers, filename: assets/KR4i0011_001-WYG.markers.yaml, hash: 'sha256:eb7cf7796a60b2729dbd077c30fd279c5aad362f06d26edcbd0ab32ea465ae50'}
 table_of_contents:
 - ref:
@@ -43,4 +43,4 @@ table_of_contents:
   label: 優古堂詩話
   type: section
   level: 1
-hash: sha256:f36db6f57eb3f925e5a114c762c805c194207ba6305d3f1f44d1036f39ce2bfc
+hash: sha256:4bf33e2862b14ca69e8fceb93ea62bfc010384e8be5aac9f9e8100d59f817c9c

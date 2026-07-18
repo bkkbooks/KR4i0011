@@ -23,7 +23,7 @@ assets:
   - {seq: 0, filename: KR4i0011_000.yaml, hash: 'sha256:ab2c2fb6322216a9d47fe0a218ee546eee1d920051ff4d4175a520023e790ddf'}
   - {seq: 1, filename: KR4i0011_001.yaml, hash: 'sha256:862fe24e98db00733bdfa27a3134e6bfcae5835d2f37040a8820148152844e1d'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR4i0011_000.markers.yaml, hash: 'sha256:f844d8a8d862d552e0ade1569ebb6b775224806b26de6e754d97bf84ee752304'}
+  - {seq: 0, role: markers, filename: assets/KR4i0011_000.markers.yaml, hash: 'sha256:f95696bbdef2758723c345e460defc0a65f82f2e60a339ceb4280b9354ae96a9'}
   - {seq: 1, role: markers, filename: assets/KR4i0011_001.markers.yaml, hash: 'sha256:383ad2dea86f96e1ec172828a38816f4ccb41d4a9faa996bb22ec7c981348d52'}
 table_of_contents:
 - ref:
@@ -46,7 +46,7 @@ table_of_contents:
   label: 優古堂詩話
   type: section
   level: 1
-hash: sha256:39e3ca8e24e4794f6ec34a9e49c113e9323f5ac7f02088cea4b59ecb4c15e635
+hash: sha256:49573b0cf8b8d520fabcc24ac89c608e6f36c70d8f851d59ef8606ff637c8d29
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
